@@ -1,4 +1,7 @@
 # Python-Programming
+Author: Anuj Gaikwad
+Date: 29th May 2023
+
 Basics of Python Programming
 Welcome to the Python Programming Course repository! In this repository, you will find all the files related to the Python programming course that I have completed. The course covered various topics ranging from the basics of Python to advanced libraries like NumPy, Pandas, Matplotlib, and Scikit-learn.
 
